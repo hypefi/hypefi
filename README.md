@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **PaidInCrypto & ScreenOCR**
 
-- 🌱 I’m currently learning **Web3 / ML**
-
 - 📫 How to reach me **anasboukharta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
