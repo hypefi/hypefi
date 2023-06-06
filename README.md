@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hypefi&label=Profile%20views&color=0e75b6&style=flat" alt="hypefi" /> </p>
 
-- 🔭 I’m currently working on **PaidInCrypto & ScreenOCR**
+- 🔭 I’m currently working on **eksodos.com** a Jobboard for people who want to get paid in crypto & **Chofane** a screenshot OCR app utility on MacOS
+
+- Check out the Menu Bar Surf Report open source app, Surf reports directly on your app menubar.
+
+- I propose freelance and contractual work in Full-stack Software engineering.
 
 - 📫 How to reach me **anasboukharta@gmail.com**
 
